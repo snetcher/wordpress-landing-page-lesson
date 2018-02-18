@@ -1,4 +1,5 @@
 # Создание Landing Page на WordPress
+<a href="https://www.youtube.com/watch?v=oqYhOkQfdeA">Первая часть серии уроков - https://www.youtube.com/watch?v=oqYhOkQfdeA</a>
 
 ![Создание Landing Page на WordPress](https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg)
 
